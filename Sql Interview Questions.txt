@@ -1,0 +1,28 @@
+- Explain the difference between clustered and non-clustered indexes
+- What is normalization and denormalization?
+- What are the ACID properties in a database?
+- Explain the difference between a primary key and a unique key
+- Explain the concept of transactions
+- What is the purpose of the SQL Server Profiler?
+- Explain the concept of the Execution Plan
+- What are Common Table Expressions (CTEs) and when would you use them?
+- How do you optimize a SQL query?
+- What is the difference between OLAP and OLTP?
+- What is Referential Integrity?
+- What is a Sparse Column?
+- What do you mean by Collation?
+- What is SQL injection?
+- What are the advantages of using stored procedures in an SQL server?
+- What are the various types of collation sensitivity, and brief them?
+- How can you improve the performance of stored procedures in the SQL server?
+
+
+--- Advanced
+- How can you identify and resolve performance bottlenecks in SQL Server?
+- What is AlwaysOn Availability Groups, and how does it ensure high availability?
+- What is SQL Server Replication, and when would you use it?
+- Explain the difference between synchronous and asynchronous replication.
+- What are Cursors, and mention their types?
+- What do you mean by Shared, Exclusive, and Updated locks?
+- What is Database Mirroring, and mention its benefits?
+- What do you mean by Magic Tables in SQL server?
